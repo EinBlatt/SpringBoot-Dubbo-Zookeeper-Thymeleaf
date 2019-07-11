@@ -1,0 +1,4 @@
+com\einblatt\problem\domain\Classes.class
+com\einblatt\problem\service\FaqsService.class
+com\einblatt\problem\domain\Faqs.class
+com\einblatt\problem\service\ClassessService.class

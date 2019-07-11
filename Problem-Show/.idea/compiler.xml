@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="problem-show-comment" />
+        <module name="problem-show-consumer" />
+        <module name="problem-show-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Problem-Show-Comment" target="1.7" />
+      <module name="Problem-Show-Consumer" target="1.7" />
+      <module name="Problem-Show-Provider" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="problem-show-comment" options="" />
+      <module name="problem-show-consumer" options="" />
+      <module name="problem-show-provider" options="" />
+    </option>
+  </component>
+</project>
